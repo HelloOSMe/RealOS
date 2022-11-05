@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\qemu\qemu-system-i386" -fda C:\Users\Lenovo\Desktop\OS\HelloOSBootManager.img

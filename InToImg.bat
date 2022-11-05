@@ -1,0 +1,1 @@
+"C:\Users\Lenovo\Documents\dd\dd.exe" if=HelloOSBootManager.bin of=HelloOSBootManager.img bs=512 count=1
